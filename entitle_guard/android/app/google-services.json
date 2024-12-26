@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209024763157",
+    "project_id": "entitle-guard-4c857",
+    "storage_bucket": "entitle-guard-4c857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209024763157:android:34edfe9812258eeb1cd51c",
+        "android_client_info": {
+          "package_name": "com.example.entitle_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsIePV_v9PfbHHW3-6ArzTJL2bKmfWs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
